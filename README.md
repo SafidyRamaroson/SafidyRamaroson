@@ -20,27 +20,16 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="pg"/>
 <img src="https://img.shields.io/badge/Sequelize-rgb(124%2C%20238%2C%20209)?style=for-the-badge&logo=sequelize&logoColor=white" alt="sequelize"/>
 </p>
-<p align="center">
-    <img alt="Safidy" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
-</p>
+
 <h3 align="center"> About me &#128513 </h3>
 
 <p style="font-family:Roboto;padding:2px 4px" align="center">
     <b>
-        Passionate about coding competitions &#128525; and armed with a solid foundation in Computer Science, I'm a versatile developer <br/> ready to tackle any project that piques my interest. Let's collaborate and create something extraordinary &#128519.
+        Passionate about coding competitions &#128525; and armed with a solid foundation in Computer Science, 
+        I'm a versatile developer ready to tackle any project that piques my interest. 
+        Let's collaborate and create something extraordinary &#128519.
     </b>
 </p>
-
-<ul align="center">
-    <li style="font-family:Roboto;list-style-type:none"> 
-        I’m always studying JavaScript, React JS , Node JS , Express JS and Python.
-    </li>
-    <li style="font-family:Roboto;list-style-type:none"> 
-        I’m currently learning TypeScript and master in SQL on Hackerrank .
-    </li>
-
-</ul>
-
 
 
 <h2 align="center"> StreakStats 🚀 </h2>
@@ -55,7 +44,7 @@
     <img src="https://img.shields.io/badge/Gmail-rgb(209%2C%2094%2C%2040)?style=for-the-badge&logo=GMAIL&logoColor=white&labelColor=rgb(209%2C%2094%2C%2040)
     " />
     </a>
-    <a href="mailto:safidyramaroson.patrick@gmail.com">
+    <a href="mailto:safidyramaroson.patrick@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
 </p>

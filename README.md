@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Sequelize-rgb(124%2C%20238%2C%20209)?style=for-the-badge&logo=sequelize&logoColor=white" alt="sequelize"/>
 </p>
 
-<h3 align="center"> About me &#128513 </h3>
+<h2 align="center"> About me &#128513 </h2>
 
 <p style="font-family:Roboto;padding:2px 4px" align="center">
     <b>
@@ -31,6 +31,25 @@
     </b>
 </p>
 
+<h2 align="center">My Hackerrank badges </h3>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/Safidy_RM">
+    <img src="assets/Problem Solving Badge.png" alt="My Problem Solving badge on hackerrank"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/Safidy_RM">
+    <img src="assets/Python Badge.png" alt="My Python badge on hackerrank"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/Safidy_RM">
+    <img src="assets/30 Days Of Code Badge.png" alt="My 30 Days Of Code badge on hackerrank"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/Safidy_RM">
+    <img src="assets/10 Days Of JS Badge.png" alt="My 10 Days Of Code badge on hackerrank"/>
+  </a>
+  <a>
+    <img src="assets/SQL Badge.png" alt="My SQL badge on hackerrank"/>
+  </a>
+</p>
 
 <h2 align="center"> StreakStats 🚀 </h2>
 

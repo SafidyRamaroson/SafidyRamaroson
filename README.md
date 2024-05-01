@@ -43,10 +43,10 @@
     <img src="assets/Problem Solving Badge.png" alt="My Problem Solving badge on hackerrank"/>
   </a>
   <a href="https://www.hackerrank.com/profile/Safidy_RM">
-    <img src="assets/Python Badge.png" alt="My Python badge on hackerrank"/>
+    <img src="assets/30 Days Of Code Badge.png" alt="My 30 Days Of Code badge on hackerrank"/>
   </a>
   <a href="https://www.hackerrank.com/profile/Safidy_RM">
-    <img src="assets/30 Days Of Code Badge.png" alt="My 30 Days Of Code badge on hackerrank"/>
+    <img src="assets/Python Badge.png" alt="My Python badge on hackerrank"/>
   </a>
   <a href="https://www.hackerrank.com/profile/Safidy_RM">
     <img src="assets/10 Days Of JS Badge.png" alt="My 10 Days Of Code badge on hackerrank"/>

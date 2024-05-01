@@ -48,10 +48,14 @@
   <a href="https://www.hackerrank.com/profile/Safidy_RM">
     <img src="assets/Python Badge.png" alt="My Python badge on hackerrank"/>
   </a>
+  <br/>
+  <a href="https://www.hackerrank.com/profile/Safidy_RM">
+    <img src="assets/JAVA Badge.png" alt="My JAVA badge on hackerrank"/>
+  </a>
   <a href="https://www.hackerrank.com/profile/Safidy_RM">
     <img src="assets/10 Days Of JS Badge.png" alt="My 10 Days Of Code badge on hackerrank"/>
   </a>
-  <a>
+  <a href="https://www.hackerrank.com/profile/Safidy_RM">
     <img src="assets/SQL Badge.png" alt="My SQL badge on hackerrank"/>
   </a>
 </p>
@@ -61,6 +65,7 @@
 
 <p align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=SafidyRamaroson&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&background=020625&ring=1321FE&fire=DD5007"/>
+    <br/>
 </p>
 
 <h2 align="center"> Keep in touch with me 😊 </h2>
@@ -74,6 +79,5 @@
     <a href="https://www.hackerrank.com/profile/Safidy_RM">
       <img src="https://img.shields.io/badge/hackerrank-51f0bb?style=for-the-badge&logo=hackerrank&logoColor=white" />
       </a>
-
 </p>
 

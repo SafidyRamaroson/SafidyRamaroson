@@ -29,11 +29,9 @@
 <h2 align="center"> About me &#128513 </h2>
 
 <p style="font-family:Roboto;padding:2px 4px" align="center">
-    <b>
         Passionate about coding competitions &#128525; and armed with a solid foundation in Computer Science, 
         I'm a versatile developer ready to tackle any project that piques my interest. 
         Let's collaborate and create something extraordinary &#128519.
-    </b>
 </p>
 
 <h2 align="center">My Hackerrank badges </h3>

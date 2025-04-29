@@ -1,12 +1,15 @@
 <div style="font-family:Roboto;">
-<h5> Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px">,I'm Safidy </h5>
+<h5> Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,I'm Safidy RAMAROSON</h5>
 
 <h3 
-style="background:linear-gradient(to right, #3b82f6, #8b5cf6);-webkit-background-clip: text;
--webkit-text-fill-color:transparent;
-font-weight: bold;
-">Enthusiast FullStack Web developer</h3>
 
+### Enthusiast Web developer
+
+
+## Little About Me
+   Developer passionate about **frontend** and **backend** technologies with expertise in **TypeScript**, **Next JS**,**ReactJS** and **Node.js**. I love building scalable and performant web applications and solving complex problems through code.
+
+### Technical skills :
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-93c5fd?style=for-the-badge&logo=html5&logoColor=white" alt="html" style="border-radius:5px"/>
@@ -41,28 +44,24 @@ style="border-radius:5px"/>
 <img src="https://img.shields.io/badge/git-fca5a5?style=for-the-badge&logo=git&logoColor=white" alt="git" style="border-radius:5px"/>
 <img src="https://img.shields.io/badge/github-d1d5db?style=for-the-badge&logo=github&logoColor=000000" alt="github" style="border-radius:5px"/>
 
-
 </p>
 
-<h4 style="background:linear-gradient(to right, #3b82f6, #8b5cf6);-webkit-background-clip: text;
--webkit-text-fill-color:transparent;
-font-weight: bold;"> About Me</h4>
+### Learning :
+- 🌱 Web Development
+- 🌱 UI / UX Designer
+
+### Hobbies : 
+- 🍿 Anime
+- ⚽ Football
 
 <p style="font-family:Roboto;padding:2px 4px">
-        Passionate about coding competitions &#128525; and armed with a solid foundation in Computer Science, 
-        I'm a versatile developer ready to tackle any project that piques my interest. 
-        Let's collaborate and create something extraordinary &#128519.
 </p>
 
-<h4 style="background:linear-gradient(to right, #3b82f6, #8b5cf6);-webkit-background-clip: text;
--webkit-text-fill-color:transparent;
-font-weight: bold;"> StreakStats 🚀 </h4>
+## GitHub Stats 🚀 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SafidyRamaroson&theme=transparent&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafidyRamaroson&layout=compact&theme=gradient&hide_border=false&cache_seconds=1800&background=020625
-    ">
-
+ ![SafidyRamaroson's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SafidyRamaroson&theme=transparent&show_icons=true&hide_border=false&layout=compact)
 <h4 style="background:linear-gradient(to right, #3b82f6, #8b5cf6);-webkit-background-clip: text;
 -webkit-text-fill-color:transparent;
 font-weight: bold;"> Keep in touch with me </h4>
@@ -70,10 +69,10 @@ font-weight: bold;"> Keep in touch with me </h4>
     <a href="mailto:safidyramaroson.patrick@gmail.com">
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
     </a>
-    <a href="https://facebook.com/Safidy_RM">
-       <img src="https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://linkedin.com/in/ramaroson-tanjona-safidy-patrick">
+       <img src="https://img.shields.io/badge/linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:safidyramaroson.patrick@gmail.com">
+    <a href="https://wa.me/261329920117">
        <img src="https://img.shields.io/badge/Whatsapp-b9fbc0?style=for-the-badge&logo=whatsapp&logoColor=22c55e" alt="WhatsApp"/>
     </a>
 </p>

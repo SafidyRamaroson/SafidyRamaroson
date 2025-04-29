@@ -1,32 +1,42 @@
+<div style="font-family:Roboto;">
+<h5> Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px">,I'm Safidy </h5>
 
-<h1> Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px">,I'm Safidy </h1>
-
-<h3>Enthusiast web developer</h3>
+<h3 
+style="background:linear-gradient(to right, #3b82f6, #8b5cf6);-webkit-background-clip: text;
+-webkit-text-fill-color:transparent;
+font-weight: bold;
+">Enthusiast FullStack Web developer</h3>
 
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJs"/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node JS"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express js"/>
+<img src="https://img.shields.io/badge/HTML5-93c5fd?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
+<img src="https://img.shields.io/badge/CSS3-60a5fa?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
+<img src="https://img.shields.io/badge/JavaScript-fef08a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js"/>
+<img src="https://img.shields.io/badge/TypeScript-a5b4fc?style=for-the-badge&logo=typescript&logoColor=white" alt="ts"/>
+<img src="https://img.shields.io/badge/Next.js-dbeafe?style=for-the-badge&logo=NextJS&logoColor=000000" alt="Next JS"/>
+<img src="https://img.shields.io/badge/React-1e3a8a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJs"/>
+<img src="https://img.shields.io/badge/node.js-b9fbc0?style=for-the-badge&logo=node.js&logoColor=white" alt="Node JS"/>
+<img src="https://img.shields.io/badge/Express.js-e5e7eb?style=for-the-badge&logo=express&logoColor=000000" alt="express js"/>
 <br/>
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/>
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="mui"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="pg"/>
-<img src="https://img.shields.io/badge/Sequelize-rgb(124%2C%20238%2C%20209)?style=for-the-badge&logo=sequelize&logoColor=white" alt="sequelize"/>
+<img src="https://img.shields.io/badge/Jest-fecaca?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/>
+<img src="https://img.shields.io/badge/Material%20UI-bcd4f6?style=for-the-badge&logo=mui&logoColor=007FFF" alt="mui"/>
+<img src="https://img.shields.io/badge/Shadcn%20UI-bcd4f6?style=for-the-badge&logo=shadcnui&logoColor=007FFF" alt="shadcnui"/>
+<img src="https://img.shields.io/badge/Bootstrap-e9d5ff?style=for-the-badge&logo=bootstrap&logoColor=563D7C" alt="bootstrap"/>
+<img src="https://img.shields.io/badge/MySQL-bde0fe?style=for-the-badge&logo=mysql&logoColor=005C84" alt="mysql"/>
+<img src="https://img.shields.io/badge/PostgreSQL-a5f3fc?style=for-the-badge&logo=postgresql&logoColor=316192" alt="pg"/>
+<img src="https://img.shields.io/badge/Prisma-e2e8f0?style=for-the-badge&logo=prisma&logoColor=2D3748" alt="prisma"/>
 <br/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+<img src="https://img.shields.io/badge/Postman-fcd34d?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/NPM-f87171?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+<img src="https://img.shields.io/badge/git-fca5a5?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+<img src="https://img.shields.io/badge/github-d1d5db?style=for-the-badge&logo=github&logoColor=000000" alt="github"/>
+<img src="https://img.shields.io/badge/tailwindcss-60a5fa?style=for-the-badge&logo=tailwindcss&logoColor=2563eb" alt="tailwind css"/>
+
 </p>
 
-<h2> About me &#128513 </h2>
+<h4 style="background:linear-gradient(to right, #3b82f6, #8b5cf6);-webkit-background-clip: text;
+-webkit-text-fill-color:transparent;
+font-weight: bold;"> About Me</h4>
 
 <p style="font-family:Roboto;padding:2px 4px">
         Passionate about coding competitions &#128525; and armed with a solid foundation in Computer Science, 
@@ -34,20 +44,28 @@
         Let's collaborate and create something extraordinary &#128519.
 </p>
 
-<h2> StreakStats 🚀 </h2>
+<h4 style="background:linear-gradient(to right, #3b82f6, #8b5cf6);-webkit-background-clip: text;
+-webkit-text-fill-color:transparent;
+font-weight: bold;"> StreakStats 🚀 </h4>
 
-<p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=SafidyRamaroson&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&background=020625&ring=1321FE&fire=DD5007"/>
-    <br/>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SafidyRamaroson&theme=transparent&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafidyRamaroson&layout=compact&theme=gradient&hide_border=false&cache_seconds=1800&background=020625
+    ">
 
-<h2> Keep in touch with me 😊 </h2>
-<p align="center">
+<h4 style="background:linear-gradient(to right, #3b82f6, #8b5cf6);-webkit-background-clip: text;
+-webkit-text-fill-color:transparent;
+font-weight: bold;"> Keep in touch with me </h4>
+<p>
     <a href="mailto:safidyramaroson.patrick@gmail.com">
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
     </a>
     <a href="https://facebook.com/Safidy_RM">
-       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+       <img src="https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:safidyramaroson.patrick@gmail.com">
+       <img src="https://img.shields.io/badge/Whatsapp-b9fbc0?style=for-the-badge&logo=whatsapp&logoColor=22c55e" alt="WhatsApp"/>
     </a>
 </p>
+</div>
 

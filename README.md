@@ -1,10 +1,10 @@
 
-<h1 align="center"> Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px">,I'm Safidy </h1>
+<h1> Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px">,I'm Safidy </h1>
 
-<h3 align="center">Enthusiast web developer</h3>
+<h3>Enthusiast web developer</h3>
 
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js"/>
@@ -26,47 +26,22 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 </p>
 
-<h2 align="center"> About me &#128513 </h2>
+<h2> About me &#128513 </h2>
 
-<p style="font-family:Roboto;padding:2px 4px" align="center">
+<p style="font-family:Roboto;padding:2px 4px">
         Passionate about coding competitions &#128525; and armed with a solid foundation in Computer Science, 
         I'm a versatile developer ready to tackle any project that piques my interest. 
         Let's collaborate and create something extraordinary &#128519.
 </p>
 
-<h2 align="center">My Hackerrank badges </h3>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/profile/Safidy_RM">
-    <img src="assets/Problem Solving Badge.png" alt="My Problem Solving badge on hackerrank"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/Safidy_RM">
-    <img src="assets/30 Days Of Code Badge.png" alt="My 30 Days Of Code badge on hackerrank"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/Safidy_RM">
-    <img src="assets/Python Badge.png" alt="My Python badge on hackerrank"/>
-  </a>
-  <br/>
-  <a href="https://www.hackerrank.com/profile/Safidy_RM">
-    <img src="assets/JAVA Badge.png" alt="My JAVA badge on hackerrank"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/Safidy_RM">
-    <img src="assets/10 Days Of JS Badge.png" alt="My 10 Days Of Code badge on hackerrank"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/Safidy_RM">
-    <img src="assets/SQL Badge.png" alt="My SQL badge on hackerrank"/>
-  </a>
-</p>
-
-
-<h2 align="center"> StreakStats 🚀 </h2>
+<h2> StreakStats 🚀 </h2>
 
 <p align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=SafidyRamaroson&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&background=020625&ring=1321FE&fire=DD5007"/>
     <br/>
 </p>
 
-<h2 align="center"> Keep in touch with me 😊 </h2>
+<h2> Keep in touch with me 😊 </h2>
 <p align="center">
     <a href="mailto:safidyramaroson.patrick@gmail.com">
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
@@ -74,8 +49,5 @@
     <a href="https://facebook.com/Safidy_RM">
        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
-    <a href="https://www.hackerrank.com/profile/Safidy_RM">
-      <img src="https://img.shields.io/badge/hackerrank-51f0bb?style=for-the-badge&logo=hackerrank&logoColor=white" />
-      </a>
 </p>
 
